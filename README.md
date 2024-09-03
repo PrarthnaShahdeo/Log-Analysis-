@@ -4,3 +4,4 @@
   - Practice and learn new tools
   - Implement the learned concepts
   - Build a portolio and resume   
+## Tools used 
