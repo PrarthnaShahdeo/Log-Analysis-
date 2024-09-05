@@ -4,4 +4,7 @@
   - Practice and learn new tools
   - Implement the learned concepts
   - Build a portolio and resume   
-## Tools used 
+## Tools/Softwares to install 
+   - Virtual Box
+   - Windows 10 
+   - Kali Linux 
